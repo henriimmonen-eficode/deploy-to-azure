@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: henri.immonen_eficode.com#EXT#@efihenritest.onmicrosoft.com-azure-ttt
-  AZURE_WEBAPP_NAME: henri.immonen_eficode.com#EXT#@efihenritest.onmicrosoft.com-ttt-app
+  DOCKER_IMAGE_NAME: henriimmonen-eficode-azure-ttt
+  AZURE_WEBAPP_NAME: henriimmonen-eficode-ttt-app
   ###############################################
 
 jobs:
